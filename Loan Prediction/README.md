@@ -1,4 +1,4 @@
-# Loan Prediction
+# Loan Prediction (Classification)
 ## Problem
 ### Predict Loan Eligibility for Dream Housing Finance company
 Dream Housing Finance company deals in all kinds of home loans. 
